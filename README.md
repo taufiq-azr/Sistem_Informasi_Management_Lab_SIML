@@ -1,2 +1,2 @@
-# ProjectRPL-BPW1---Kelompok2_Ganjil
+# Sistem Peminjaman Lab
 Ini merupakan hasil project yang telah kami buat 
